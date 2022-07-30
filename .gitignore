@@ -1,0 +1,6 @@
+#IDE
+.vscode
+
+# binary or output file
+a.out 
+main

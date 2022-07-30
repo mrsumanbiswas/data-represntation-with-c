@@ -1,5 +1,4 @@
 #pragma once
-#include <stdio.h>
 
 int number_of_bits(int number)
 {
