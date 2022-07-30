@@ -9,7 +9,7 @@ int main()
     char output[number_of_bits(input) / 16];
     decimal_to_hexadecimal(input, output);
 
-    printf("%s", output);
+    printf("%s\n", output);
 
     return 0;
 }
