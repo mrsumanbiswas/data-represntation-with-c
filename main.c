@@ -1,7 +1,5 @@
 int main()
 {
-    /* code 
-    New
-    */
+    /* code*/
     return 0;
 }
